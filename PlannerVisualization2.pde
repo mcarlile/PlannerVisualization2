@@ -10,6 +10,7 @@ Slider abc;
 String month;
 float date;
 float rdate;
+String label = "January 1";
 
 void setup() {
   size(1200, 400);
@@ -22,7 +23,7 @@ void setup() {
   cp5.addSlider("sliderTicks2")
     .setPosition(width/4, 370)
       .setWidth(width/2)
-        .setRange(0, 90) // values can range from big to small as well
+        .setRange(1, 91) // values can range from big to small as well
           .setValue(0)
             .setNumberOfTickMarks(90)
               .setSliderMode(Slider.FLEXIBLE)
@@ -32,18 +33,22 @@ void setup() {
 }
 
 void draw() {
+  cp5.getController("sliderTicks2").setValueLabel(label);
+
   fill(sliderTicks2);
   rect(0, 350, width, 50);
-  if (cp5.getController("sliderTicks2").getValue() <= 31) {
+  if (cp5.getController("sliderTicks2").getValue() <= 32) {
     month = "January";
-    date = cp5.getController("sliderTicks2").getValue() + 1;
+    date = cp5.getController("sliderTicks2").getValue();
     rdate = Math.round(date - 0.50f);
+    label = month + " " + int(rdate);
   } 
 
-  if ((cp5.getController("sliderTicks2").getValue() > 31) && (cp5.getController("sliderTicks2").getValue() <= 60)) {
+  if ((cp5.getController("sliderTicks2").getValue() > 32) && (cp5.getController("sliderTicks2").getValue() <= 60)) {
     month = "February";
-    date = cp5.getController("sliderTicks2").getValue()-30;
+    date = cp5.getController("sliderTicks2").getValue()-31;
     rdate = Math.round(date - 0.5f);
+    label = month + " " + int(rdate);
   }
 
 
@@ -51,6 +56,7 @@ void draw() {
     month = "March";
     date = cp5.getController("sliderTicks2").getValue()-59;
     rdate = Math.round(date - 0.5f);
+    label = month + " " + int(rdate);
   }
   println(month + " " + int(rdate));
 }
@@ -59,5 +65,18 @@ void draw() {
 void slider(float theColor) {
   myColor = color(theColor);
   println("a slider event. setting background to "+theColor);
+  label = month + "" + int(rdate);
+
+  cp5.getController("sliderTicks2").setValueLabel(label);
+}
+
+void keyPressed () {
+  if (keyCode == RIGHT) {
+    cp5.getController("sliderTicks2").setValue(cp5.getController("sliderTicks2").getValue()+1);
+  }
+
+  if (keyCode == LEFT) {
+    cp5.getController("sliderTicks2").setValue(cp5.getController("sliderTicks2").getValue()-1);
+  }
 }
 
