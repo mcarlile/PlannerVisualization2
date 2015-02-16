@@ -11,11 +11,56 @@ String month;
 float date;
 float rdate;
 String label = "January 1";
+PImage 3rdAndOlive; 
+PImage 7thStreet; 
+PImage 9thStreet;
+PImage 44RollaGardensDrive;
+PImage 58GreenAcresDrive;
+PImage 138WoodcrestCircle;
+PImage 1321WoodlawnDrive;
+PImage 1326MartinCourt;
+PImage 2521PeppermillLakeCourt;
+PImage 3912MeadowsweetDrive;
+PImage 14505TomashaDrive;
+PImage AdrianAvenue;
+PImage AintreeRoad;
+PImage BillAvenue;
+PImage BurgherDrive;
+PImage CedarGrove;
+PImage CollegeHillsDrive;
+PImage CoventryDrive;
+PImage CurtisDrive;
+PImage DennyCourt;
+PImage ElkPrairieRoad;
+PImage ElmwoodDrive;
+PImage FortWymanRoad;
+PImage GreenlefeDrive;
+PImage HawthorneRoad;
+PImage HeritagePark;
+PImage Highway72;
+PImage HighwayY;
+PImage Hillview Drive;
+PImage HutchisonDrive;
+PImage KentLane;
+PImage KingDrive;
+PImage MaxwellStreet;
+PImage MurryLane;
+PImage OldEnglishRoad;
+PImage OliveSTreet;
+PImage OrchardHillsDrive;
+PImage RedbudLane;
+PImage ScenicDrive;
+PImage SouthTimbercreekAvenue;
+PImage SteeplechaseRoad;
+PImage TrumanAvenue;
+PImage WhitneyLane;
+PImage WinchesterDrive;
 
 void setup() {
   size(1200, 400);
   noStroke();
   cp5 = new ControlP5(this);
+  background (0);
 
 
 
@@ -35,8 +80,6 @@ void setup() {
 void draw() {
   cp5.getController("sliderTicks2").setValueLabel(label);
 
-  fill(sliderTicks2);
-  rect(0, 350, width, 50);
   if (cp5.getController("sliderTicks2").getValue() <= 32) {
     month = "January";
     date = cp5.getController("sliderTicks2").getValue();
@@ -59,18 +102,14 @@ void draw() {
     label = month + " " + int(rdate);
   }
   println(month + " " + int(rdate));
+  
+  if (label == "Febrary 2") {
+    
+  }
 }
 
 
-void slider(float theColor) {
-  myColor = color(theColor);
-  println("a slider event. setting background to "+theColor);
-  label = month + "" + int(rdate);
-
-  cp5.getController("sliderTicks2").setValueLabel(label);
-}
-
-void keyPressed () {
+void keyReleased () {
   if (keyCode == RIGHT) {
     cp5.getController("sliderTicks2").setValue(cp5.getController("sliderTicks2").getValue()+1);
   }
