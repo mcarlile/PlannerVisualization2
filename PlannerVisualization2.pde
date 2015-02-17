@@ -9,25 +9,25 @@ int sliderTicks2 = 30;
 Slider abc;
 String month;
 float date;
+PImage photo;
 float rdate;
 String label = "January 1";
-PImage 3rdAndOlive; 
-PImage 7thStreet; 
-PImage 9thStreet;
-PImage 44RollaGardensDrive;
-PImage 58GreenAcresDrive;
-PImage 138WoodcrestCircle;
-PImage 1321WoodlawnDrive;
-PImage 1326MartinCourt;
-PImage 2521PeppermillLakeCourt;
-PImage 3912MeadowsweetDrive;
-PImage 14505TomashaDrive;
+PImage ThirdAndOlive; 
+PImage SeventhStreet; 
+PImage NinthStreet;
+PImage GreenAcresDrive;
+PImage WoodcrestCircle;
+PImage WoodlawnDrive;
+PImage MartinCourt;
+PImage PeppermillLakeCourt;
+PImage MeadowsweetDrive;
+PImage TomashaDrive;
 PImage AdrianAvenue;
 PImage AintreeRoad;
 PImage BillAvenue;
 PImage BurgherDrive;
 PImage CedarGrove;
-PImage CollegeHillsDrive;
+PImage CollegeHills;
 PImage CoventryDrive;
 PImage CurtisDrive;
 PImage DennyCourt;
@@ -39,7 +39,7 @@ PImage HawthorneRoad;
 PImage HeritagePark;
 PImage Highway72;
 PImage HighwayY;
-PImage Hillview Drive;
+PImage HillviewDrive;
 PImage HutchisonDrive;
 PImage KentLane;
 PImage KingDrive;
@@ -55,18 +55,38 @@ PImage SteeplechaseRoad;
 PImage TrumanAvenue;
 PImage WhitneyLane;
 PImage WinchesterDrive;
+PImage RollaGardensDrive;
+
 
 void setup() {
-  size(1200, 400);
+  size(840, 400);
   noStroke();
   cp5 = new ControlP5(this);
   background (0);
 
-
+  ScenicDrive = loadImage("Scenic Drive.png");
+  SteeplechaseRoad = loadImage("Steeplechase Road.png");
+  KentLane = loadImage("Kent Lane.png");
+  MurryLane = loadImage("Murry Lane.png");
+  DennyCourt = loadImage("Denny Court.png");
+  MaxwellStreet = loadImage("Maxwell Street.png");
+  CollegeHills = loadImage("College Hills Drive.png");
+  AintreeRoad = loadImage("Aintree Road.png");
+  AdrianAvenue = loadImage("Adrian Avenue.png");
+  CoventryDrive = loadImage("Coventry Drive.png");
+  OldEnglishRoad = loadImage("Old English Road.png");
+  ElmwoodDrive = loadImage("Elmwood Drive.png");
+  ThirdAndOlive = loadImage("3rd and Olive.png");
+  OrchardHillsDrive = loadImage("Orchard Hills Drive.png");
+  WhitneyLane = loadImage("Whitney Lane.png");
+  RollaGardensDrive = loadImage("44 Rolla Gardens Drive.png");
+  SouthTimbercreekAvenue = loadImage("South Timbercreek Avenue (Springfield).png");
+  CurtisDrive = loadImage("Curtis Drive.png");
+  MartinCourt = loadImage("1326 Martin Ct. Grapevine, TX 76051.png");
 
 
   cp5.addSlider("sliderTicks2")
-    .setPosition(width/4, 370)
+    .setPosition(width/4, 340)
       .setWidth(width/2)
         .setRange(1, 91) // values can range from big to small as well
           .setValue(0)
@@ -79,6 +99,9 @@ void setup() {
 
 void draw() {
   cp5.getController("sliderTicks2").setValueLabel(label);
+
+
+
 
   if (cp5.getController("sliderTicks2").getValue() <= 32) {
     month = "January";
@@ -101,15 +124,54 @@ void draw() {
     rdate = Math.round(date - 0.5f);
     label = month + " " + int(rdate);
   }
-  println(month + " " + int(rdate));
-  
-  if (label == "Febrary 2") {
-    
+
+  if (month == "January") {
+    if (int(date) == 5) {
+      image (ScenicDrive, 0, -40, 840, 341);
+    } else if (int(date) ==13) {
+      image (KentLane, 0, -40, 840, 341);
+      image (MurryLane, width/3, -40, 840, 341);
+      image (DennyCourt, width/3*2, -40, 840, 341);
+    } else if (int(date) ==14) {
+      image (MurryLane, 0, -40, 840, 341);
+      image (DennyCourt, width/3, -40, 840, 341);
+      image (KentLane, width/3*2, -40, 840, 341);
+    } else if (int(date) == 15) {
+      image (MaxwellStreet, 0, -40, 840, 341);
+      image (ScenicDrive, width/8, -40, 840, 341);
+      image (CollegeHills, width/8*2, -40, 840, 341);
+      image (AintreeRoad, width/8*3, -40, 840, 341);
+      image (AdrianAvenue, width/8*4, -40, 840, 341);
+      image (CoventryDrive, width/8*5, -40, 840, 341);
+      image (OldEnglishRoad, width/8*6, -40, 840, 341);
+      image (DennyCourt, width/8*7, -40, 840, 341);
+    } else if (int(date) == 16) {
+      image (ElmwoodDrive, 0, -40, 840, 341);
+      image (RollaGardensDrive, width/8, -40, 840, 341);
+      image (ThirdAndOlive, width/8*2, -40, 840, 341);
+      image (MaxwellStreet, width/8*3, -40, 840, 341);
+      image (CollegeHills, width/8*4, -40, 840, 341);
+      image (DennyCourt, width/8*5, -40, 840, 341);
+      image (WhitneyLane, width/8*6, -40, 840, 341);
+      image (OrchardHillsDrive, width/8*7, -40, 840, 341);
+    } else if (int(date) == 19) {
+      image (SouthTimbercreekAvenue, 0, -40, 840, 341);
+    } else if (int(date) == 20) {
+      image (SteeplechaseRoad, 0, -40, 840, 341);
+    } else if (int(date) == 26) {
+      image (CurtisDrive, 0, -40, 840, 341);
+    } else if (int(date) == 27) {
+      image (MartinCourt, 0, -40, 840, 341);
+    } else {
+      background(0);
+    }
   }
+
+  println(cp5.getController("sliderTicks2").getValue());
 }
 
 
-void keyReleased () {
+void  () {
   if (keyCode == RIGHT) {
     cp5.getController("sliderTicks2").setValue(cp5.getController("sliderTicks2").getValue()+1);
   }
