@@ -46,7 +46,7 @@ PImage KingDrive;
 PImage MaxwellStreet;
 PImage MurryLane;
 PImage OldEnglishRoad;
-PImage OliveSTreet;
+PImage OliveStreet;
 PImage OrchardHillsDrive;
 PImage RedbudLane;
 PImage ScenicDrive;
@@ -83,7 +83,13 @@ void setup() {
   SouthTimbercreekAvenue = loadImage("South Timbercreek Avenue (Springfield).png");
   CurtisDrive = loadImage("Curtis Drive.png");
   MartinCourt = loadImage("1326 Martin Ct. Grapevine, TX 76051.png");
-
+  FortWymanRoad = loadImage("Fort Wyman Road.png");
+  WinchesterDrive = loadImage("Winchester Drive.png");
+  NinthStreet = loadImage("9th Street.png");
+  TomashaDrive = loadImage("14505 Tomasha Drive, Indepence, MO 64055.png");
+  GreenlefeDrive = loadImage("Greenlefe Drive.png");
+  OliveStreet = loadImage("Olive Street.png");
+  CedarGrove = loadImage("Cedar Grove.png");
 
   cp5.addSlider("sliderTicks2")
     .setPosition(width/4, 340)
@@ -162,6 +168,33 @@ void draw() {
       image (CurtisDrive, 0, -40, 840, 341);
     } else if (int(date) == 27) {
       image (MartinCourt, 0, -40, 840, 341);
+    } else if (int(date) == 30) {
+      image (FortWymanRoad, 0, -40, 840, 341);
+    } else {
+      background(0);
+    }
+  }
+
+  if (month == "February") {
+    if (int(date) == 5) {
+      image (WhitneyLane, 0, -40, 840, 341);
+      image (CurtisDrive, width/2, -40, 840, 341);
+    } else if (int(date) == 8) {
+      image (WinchesterDrive, 0, -40, 840, 341);
+    } else if (int(date) == 9) {
+      image (WinchesterDrive, 0, -40, 840, 341);
+      image (NinthStreet, width/3, -40, 840, 341);
+      image (CurtisDrive, width/3*2, -40, 840, 341);
+    } else if (int(date) == 13) {
+      image (CedarGrove, 0, -40, 840, 341);
+    } else if (int(date) == 15) {
+      image (TomashaDrive, 0, -40, 840, 341);
+    } else if (int(date) == 17) {
+      image (GreenlefeDrive, 0, -40, 840, 341);
+    } else if (int(date) == 18) {
+      image (OliveStreet, 0, -40, 840, 341);
+    } else if (int(date) == 23) {
+      image (NinthStreet, 0, -40, 840, 341);
     } else {
       background(0);
     }
@@ -171,7 +204,7 @@ void draw() {
 }
 
 
-void  () {
+void keyPressed () {
   if (keyCode == RIGHT) {
     cp5.getController("sliderTicks2").setValue(cp5.getController("sliderTicks2").getValue()+1);
   }
