@@ -2,10 +2,8 @@ import controlP5.*;
 
 ControlP5 cp5;
 int myColor = color(0, 0, 0);
-
-int sliderValue = 100;
-int sliderTicks1 = 100;
 int sliderTicks2 = 30;
+int typeCastedValue;
 Slider abc;
 String month;
 float date;
@@ -56,6 +54,7 @@ PImage TrumanAvenue;
 PImage WhitneyLane;
 PImage WinchesterDrive;
 PImage RollaGardensDrive;
+PImage HarvestFields;
 
 
 void setup() {
@@ -90,6 +89,16 @@ void setup() {
   GreenlefeDrive = loadImage("Greenlefe Drive.png");
   OliveStreet = loadImage("Olive Street.png");
   CedarGrove = loadImage("Cedar Grove.png");
+  BillAvenue = loadImage("Bill Avenue.png");
+  GreenAcresDrive = loadImage("58 Green Acres Drive.png");
+  Highway72 = loadImage("Highway 72.png");
+  HillviewDrive = loadImage("Hillview Drive.png");
+  SeventhStreet = loadImage("7th Street.png");
+  TrumanAvenue = loadImage("Truman Avenue.png");
+  WoodcrestCircle = loadImage("138 Woodcrest Circle.png");
+  PeppermillLakeCourt = loadImage("2521 Pepermil Lake Ct. Chesterfield Mo 63017.png");
+  BurgherDrive = loadImage("Burgher Drive.png");
+  MeadowsweetDrive = loadImage("3912 Meadowsweet Dr. Dayton, Ohio.png");
 
   cp5.addSlider("sliderTicks2")
     .setPosition(width/4, 340)
@@ -105,9 +114,6 @@ void setup() {
 
 void draw() {
   cp5.getController("sliderTicks2").setValueLabel(label);
-
-
-
 
   if (cp5.getController("sliderTicks2").getValue() <= 32) {
     month = "January";
@@ -129,6 +135,7 @@ void draw() {
     date = cp5.getController("sliderTicks2").getValue()-59;
     rdate = Math.round(date - 0.5f);
     label = month + " " + int(rdate);
+    typeCastedValue = int((cp5.getController("sliderTicks2").getValue()));
   }
 
   if (month == "January") {
@@ -200,13 +207,49 @@ void draw() {
     }
   }
 
+  if (month == "March") {
+    if (int(date) == 9) {
+      image (BillAvenue, 0, -40, 840, 341);
+    } else if (int(date) == 10) {
+      image (GreenAcresDrive, 0, -40, 840, 341);
+      image (HillviewDrive, width/5, -40, 840, 341);
+      image (Highway72, width/5*2, -40, 840, 341);
+      image (CollegeHills, width/5*3, -40, 840, 341);
+      image (BillAvenue, width/5*4, -40, 840, 341);
+    } else if (int(date) == 11) {
+      image (ThirdAndOlive, 0, -40, 840, 341);
+    } else if (int(date) == 13) {
+      image (BillAvenue, 0, -40, 840, 341);
+    } else if (int(date) == 14) {
+      image (WhitneyLane, 0, -40, 840, 341);
+      image (SeventhStreet, width/2, -40, 840, 341);
+    } else if (int(date) == 15) {
+      image (TrumanAvenue, 0, -40, 840, 341);
+    } else if (int(date) == 16) {
+      image (WoodcrestCircle, 0, -40, 840, 341);
+    } else if (int(date) == 21) {
+      image (PeppermillLakeCourt, 0, -40, 840, 341);
+      image (AintreeRoad, width/2, -40, 840, 341);
+    } else if (int(date) == 22) {
+      image (CoventryDrive, 0, -40, 840, 341);
+      image (SteeplechaseRoad, width/2, -40, 840, 341);
+    } else if (int(date) == 28) {
+      image (BurgherDrive, 0, -40, 840, 341);
+      image (WhitneyLane, width/2, -40, 840, 341);
+    } else if (int(date) == 31) {
+      image (MeadowsweetDrive, 0, -40, 840, 341);
+    } else {
+      background(0);
+    }
+  }
+
   println(cp5.getController("sliderTicks2").getValue());
 }
 
 
 void keyPressed () {
   if (keyCode == RIGHT) {
-    cp5.getController("sliderTicks2").setValue(cp5.getController("sliderTicks2").getValue()+1);
+    cp5.getController("sliderTicks2").setValue(int(cp5.getController("sliderTicks2").getValue()+1));
   }
 
   if (keyCode == LEFT) {
