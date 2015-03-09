@@ -5,50 +5,6 @@
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.9453519,
-          37.9860773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.6950227,
-          37.9860773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.6950227,
-          37.8391429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.9453519,
-          37.8391429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
@@ -79,7 +35,21 @@
     {
       "type": "Feature",
       "properties": {
-        "Lat": 1,
+        "Lat": 0,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.9860773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 0,
         "Lon": "B"
       },
       "geometry": {
@@ -93,7 +63,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Lat": 1,
+        "Lat": 0,
         "Lon": "C"
       },
       "geometry": {
@@ -107,7 +77,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Lat": 1,
+        "Lat": 0,
         "Lon": "D"
       },
       "geometry": {
@@ -121,7 +91,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Lat": 1,
+        "Lat": 0,
         "Lon": "E"
       },
       "geometry": {
@@ -135,7 +105,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Lat": 1,
+        "Lat": 0,
         "Lon": "F"
       },
       "geometry": {
@@ -149,7 +119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Lat": 1,
+        "Lat": 0,
         "Lon": "G"
       },
       "geometry": {
@@ -163,7 +133,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Lat": 1,
+        "Lat": 0,
         "Lon": "H"
       },
       "geometry": {
@@ -171,6 +141,132 @@
         "coordinates": [
           -91.72631385,
           37.9860773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 0,
+        "Lon": "I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6950227,
+          37.9860773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 1,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.9677105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 2,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.9493437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 3,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.9309769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 4,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.9126101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 5,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.8942433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 6,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.8758765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 7,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.8575097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lat": 8,
+        "Lon": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9453519,
+          37.8391429
         ]
       }
     }
