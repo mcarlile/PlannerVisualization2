@@ -2414,6 +2414,193 @@
         "styleHash": "-12a4d528",
         "week": 40
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7588768,
+          37.933725,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Winchester Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76533979999999,
+          37.948398,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 6th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75177859999997,
+          37.9303821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sycamore Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7439885,
+          37.94083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Steeplechase Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7439885,
+          37.94083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Steeplechase Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74036719999998,
+          37.9491275,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Greenbriar Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7439885,
+          37.94083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Steeplechase Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7439885,
+          37.94083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Steeplechase Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9032191,
+          37.9085358,
+          0
+        ]
+      },
+      "properties": {
+        "name": "State Rte P & State Hwy T",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81231500000001,
+          37.9128092,
+          0
+        ]
+      },
+      "properties": {
+        "name": "State Highway CC",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7411864,
+          37.9410802,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Briarwood Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 52
+      }
     }
   ]
 }
