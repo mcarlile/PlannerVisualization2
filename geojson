@@ -714,6 +714,703 @@
         "styleHash": "-12a4d528",
         "week": 10
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7685985,
+          37.9461915,
+          0
+        ]
+      },
+      "properties": {
+        "name": "N Olive St & E 3rd St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75839589999998,
+          37.9390679,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bill Ave",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7640601,
+          37.9491848,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 7th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74606749999998,
+          37.9482732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whitney Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7499019,
+          37.9541795,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Truman Ave",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.77780669999999,
+          37.9662385,
+          0
+        ]
+      },
+      "properties": {
+        "name": "138 Woodcrest Cir",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74495790000003,
+          37.9426624,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aintree Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.73934980000001,
+          37.9391095,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coventry Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7439885,
+          37.94083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Steeplechase Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74606750000001,
+          37.9482732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whitney Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74759719999997,
+          37.9458695,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Burgher Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75177859999997,
+          37.9303821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sycamore Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74606749999998,
+          37.9482732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whitney Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74793499999998,
+          37.952809,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Heritage Park Skilled Care",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7640601,
+          37.9491848,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 7th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78812770000002,
+          37.947636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "9th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75839589999998,
+          37.9390679,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bill Ave",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75919620000003,
+          37.9412171,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elmwood Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75151460000001,
+          37.9564886,
+          0
+        ]
+      },
+      "properties": {
+        "name": "1413 Scenic Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74606749999998,
+          37.9482732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whitney Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75017980000001,
+          37.9562534,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hillview Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.79489910000001,
+          37.9320896,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Zung Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75177859999997,
+          37.9303821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sycamore Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.82623869999998,
+          37.9759803,
+          0
+        ]
+      },
+      "properties": {
+        "name": "State Highway Y",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7640601,
+          37.9491848,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 7th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75555600000001,
+          37.975,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Northwye",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78015210000002,
+          37.9422713,
+          0
+        ]
+      },
+      "properties": {
+        "name": "807 Ridgeview Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.94535189999999,
+          37.9773429,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sugar Tree Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78812770000002,
+          37.947636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "9th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74234819999998,
+          37.9495309,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wakefield Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74343859999999,
+          37.9465291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fox Creek Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75353039999999,
+          37.9515111,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 10th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74343859999999,
+          37.9465291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fox Creek Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74343859999999,
+          37.9465291,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fox Creek Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76663959999996,
+          37.9586367,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 18th St & N Cedar St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74557979999997,
+          37.9482626,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Greentree Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75353039999999,
+          37.9515111,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 10th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74670129999998,
+          37.9455951,
+          0
+        ]
+      },
+      "properties": {
+        "name": "7 S Murry Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74444419999998,
+          37.945986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old English Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74670129999998,
+          37.9455951,
+          0
+        ]
+      },
+      "properties": {
+        "name": "7 S Murry Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74325060000001,
+          37.9476802,
+          0
+        ]
+      },
+      "properties": {
+        "name": "500 Fox Creek Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 20
+      }
     }
   ]
 }
