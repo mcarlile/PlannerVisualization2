@@ -1989,6 +1989,431 @@
         "styleHash": "-12a4d528",
         "week": 30
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7464491,
+          37.9420936,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Redbud Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81174759999999,
+          37.96648649999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orchard Hills Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74379399999998,
+          37.9411778,
+          0
+        ]
+      },
+      "properties": {
+        "name": "213 Steeplechase Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75184289999999,
+          37.9564645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "1304 Broadway St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.73892920000003,
+          37.9699348,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old St James Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76536799999997,
+          37.9478271,
+          0
+        ]
+      },
+      "properties": {
+        "name": "E 5th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76305909999996,
+          37.9565661,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ozark St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75184289999999,
+          37.9564645,
+          0
+        ]
+      },
+      "properties": {
+        "name": "1304 Broadway St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74794689999999,
+          37.9353452,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MO-72 & Pine Tree Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.73934980000001,
+          37.9391095,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coventry Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7709003,
+          37.9721012,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Vienna Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78849679999996,
+          37.948301,
+          0
+        ]
+      },
+      "properties": {
+        "name": "8th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74144849999999,
+          37.9640697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "College Hills Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74155950000001,
+          37.96076190000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Liberty Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81038239999998,
+          37.8929242,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Point Bluff Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81174759999999,
+          37.96648649999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orchard Hills Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74444419999998,
+          37.945986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old English Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7499239,
+          37.9577195,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woodlawn Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74739899999997,
+          37.9418031,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Peachtree Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74004939999998,
+          37.9418573,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meadow Ct",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.77709579999998,
+          37.9541969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "W 13th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74658339999996,
+          37.9379382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Curtis Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.79464869999998,
+          37.906864,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hartville Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78439889999999,
+          37.8980958,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hwy 63",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75496240000001,
+          37.9284618,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pheasant Hill",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 40
+      }
     }
   ]
 }
