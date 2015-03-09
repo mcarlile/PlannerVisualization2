@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74956739999999,
+          37.9551082,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scenic Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78260089999999,
+          37.9276963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kent Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78260089999999,
+          37.9276963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kent Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75639100000001,
+          37.9498064,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Murry Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75639100000001,
+          37.9498064,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Murry Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74614500000001,
+          37.9633485,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dennie Ct",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74614500000001,
+          37.9633485,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dennie Ct",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75835999999998,
+          37.9600529,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Maxwell St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74956739999999,
+          37.9551082,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scenic Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74144849999999,
+          37.9640697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "College Hills Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74495790000003,
+          37.9426624,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aintree Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78093050000003,
+          37.9396234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "S Adrian Ave",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.73934980000001,
+          37.9391095,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coventry Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74444419999998,
+          37.945986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old English Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74614500000001,
+          37.9633485,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dennie Ct",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75919620000003,
+          37.9412171,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Elmwood Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76305780000001,
+          37.9435335,
+          0
+        ]
+      },
+      "properties": {
+        "name": "44 Rolla Gardens Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76784129999999,
+          37.9523861,
+          0
+        ]
+      },
+      "properties": {
+        "name": "N Olive St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75835999999998,
+          37.9600529,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Maxwell St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74144849999999,
+          37.9640697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "College Hills Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74614500000001,
+          37.9633485,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dennie Ct",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74606749999998,
+          37.9482732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whitney Ln3",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81174759999999,
+          37.96648649999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Orchard Hills Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7439885,
+          37.94083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Steeplechase Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74658339999996,
+          37.9379382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Curtis Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.77411819999998,
+          37.9391304,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Wyman Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74606749999998,
+          37.9482732,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Whitney Ln",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74658339999996,
+          37.9379382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Curtis Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7588768,
+          37.933725,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Winchester Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7588768,
+          37.933725,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Winchester Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78812770000002,
+          37.947636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "9th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74658339999996,
+          37.9379382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Curtis Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.79338359999997,
+          37.9296312,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cedar Grove Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.69502269999998,
+          37.9614524,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Greenlefe Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76784129999999,
+          37.9523861,
+          0
+        ]
+      },
+      "properties": {
+        "name": "N Olive St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78812770000002,
+          37.947636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "9th St",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75839589999998,
+          37.9390679,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bill Ave",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.76742200000001,
+          37.941566,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Green Acres Park",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75017980000001,
+          37.9562534,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hillview Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74794689999999,
+          37.9353452,
+          0
+        ]
+      },
+      "properties": {
+        "name": "MO-72 & Pine Tree Rd",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.74144849999999,
+          37.9640697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "College Hills Dr",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75839589999998,
+          37.9390679,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bill Ave",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "-12a4d528",
+        "week": 10
+      }
+    }
+  ]
+}
